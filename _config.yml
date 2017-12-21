@@ -1,0 +1,8 @@
+markdown: kramdown
+theme: jekyll-theme-tactile
+
+title: [I'm title]
+description: [I'm description]
+
+show_downloads: true
+google_analytics: 000
